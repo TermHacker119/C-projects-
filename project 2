@@ -1,0 +1,12 @@
+//this is basic plus calcu...
+#include<stdio.h>
+    int main(){
+    int a, b;
+        printf("Enter your First value");
+        scanf("%d",&a);
+        printf("Enter your Second vlaue");
+        scanf("%d",&b);
+    int sum = a + b;
+        printf("This is your Sum %d",sum);
+        return 0;
+        }
