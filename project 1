@@ -1,6 +1,5 @@
-#include<stdio.h>
 // intergers value
-//this is my first project in C programing lan
+#include<stdio.h>
     int main(){
         int age;
         printf("Enter your value");
