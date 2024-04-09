@@ -1,0 +1,11 @@
+#include<stdio.h>
+// intergers value
+//this is my first project in C programing lan
+    int main(){
+        int age;
+        printf("Enter your value");
+        scanf("%d",&age);
+        printf("This is your value %d",age);
+        return 0;
+    }
+    
