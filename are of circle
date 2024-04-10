@@ -1,0 +1,11 @@
+// write a program to calculate area of circle.
+//side is given...
+//amar:) 
+#include<stdio.h>
+    int main(){
+        float radius;
+        printf("Enter your value");
+        scanf("%f",&radius);
+        printf("This is your value %f",3.14 * radius * radius);
+        return 0;
+    }
